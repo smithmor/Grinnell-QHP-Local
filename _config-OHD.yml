@@ -34,7 +34,7 @@ author: dcnb
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
 # metadata: demo-ohd-metadata 
 # metadata: demo-compoundobjects-metadata
-metadata: demo-mixed
+metadata: qhp-metadata-fields
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
