@@ -3,9 +3,6 @@ Home,/,
 Browse,/browse.html,
 Digital Exhibit
 Early Life: Campus Community,/box_1.html,Digital Exhibit
-Collections,/collections.html,Browse by
 About,/about.html,
-Browse by
-Subjects,/subjects.html,Browse by
-Timeline,/timeline.html,Browse by
-Data,/data.html,Browse by
+Timeline,/timeline.html
+Data,/data.html
