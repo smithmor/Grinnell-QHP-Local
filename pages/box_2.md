@@ -1,5 +1,5 @@
 ---
-title: About
-layout: Box 2
+title: Box 2
+layout: about
 permalink: /box_2.html
 ---
