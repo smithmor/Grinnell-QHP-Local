@@ -3,18 +3,22 @@ title: Box 5
 layout: about
 permalink: /box_5.html
 ---
-QPOC Presents Drag Show
+Pterodactyl, “Lavender City”
 
-This recording of the Fall 2007 Drag Show would’ve been the second or third iteration of the Drag Show after being started by Indi Vazquez ‘07. It is a full recording of the show, and also contains a short edited trailer for the drag show compiled from student performers and emcees.
+This poem was published in the late 1960s, shortly before the Stonewall Rebellion that prompted the Gay Liberation movement in the 1970s and onward. It makes use of potentially coded language, as Lavender has been associated with queerness for quite some time, but it grew in popularity in the 1930s and during the Lavender Scare, before being reclaimed as a symbol of empowerment in the late 1960s and early 1970s.
 
-Imitation for Which There Is No Original
+High and Mighty, “Sexual Liberation - More of the Same Thing.”
 
-This book compiles photographs from the biannual Grinnell College QPOC Drag Show between Fall 2008 and Spring 2011 in a vibrant depiction of the power of drag as a destabilizing, affirming, confusing, and liberating force. It showcases the creativity, joy, and talent that students bring to drag performances on campus and presents interviews with students on what drag means to them. 
+The High and Mighty was the successor to the Pterodactyl as part of the underground publishing scene at Grinnell College in the 1960s and 1970s, and published a number of articles arguing for and critically analyzing feminism, sexual liberation, gay rights, and lesbian separatism from the perspective of campus radicals.
 
-Scarlet & Black | 11/03/2006 | Page 5 | Stuffed shirts, stuffed pants to stuff Harris seats
+RFD Magazine
 
-Presenting what is today one of the most popular events at Grinnell College, the Queer People of Color (QPOC) Drag Show was started by Indi Vazquez ‘07 in the Fall of 2006. It was not the first attempt to organize a drag show, as an S&B article from May 5th, 2006, notes that Nick Blencowe, who had been nominated for All-Campus Events (ACE) Coordinator, had attempted, but failed to organize a drag show in the prior semester. It did, however, kickstart a tradition that has been ongoing since 2006, stretching over 14 years, as it continues to adhere to the principles of student performers and tips being used as charitable donations that were established during the first Grinnell College Drag Show. 
+RFD Magazine has been a reader-written queer journal featuring prose, poetry, and art on queerness and rural queer life since it was first published in 1974. One of the co-founders of RFD Magazine was Stewart Scofield ‘70. It was originally mailed out from Grinnell while he lived nearby at a rural gay collective, and gay students at the college helped with the manual labor of creating the first issue in the forum. 
 
-Wig
+The Salad
 
-Donated to the Grinnell College Special Collections and Archives in 2021, this wig appears incredibly similar to the one worn in “Imitation for Which There is No Original” by Ragnar Thorisson ‘11 and may have been used in any number of other performances.
+The Salad was published from 2005 to 2006 as “a fresh and crunchy new voice on issues of diversity and social inequality.” It struggled to receive adequate funding throughout its publication and relied heavily on donations. It covered a wide range of issues related to diversity, including a regular column entitled “The Fruitbowl” that covered LGBTQ+ issues, and it contains the earliest known mention of Trans@Grinnell being established in a 2006 issue. 
+
+GoGo
+
+GoGo was the campus arts and literary magazine covering sexuality and gender. It discusses intimate topics and features full nudity in many photos. GoGo was first published in the Fall of 2009 and ran until 2016. The magazine was dedicated to Stewart Scofield ‘70 as a founder of the RFD magazine that inspired GoGo and to the Scofield family for their longstanding support of the Stonewall Resource Center.
