@@ -3,17 +3,25 @@ title: About
 layout: about
 permalink: /box_1.html
 ---
+{% include feature/pdf.html objectid="dg_1774734451" width="50" %}
+
 Letter to the Editor: “Seeks Concern for Homosexuals. Homosexuals To Meet Here, Lesbians Are Here Too.”
 
 Written by anonymous students in 1972, this set of letters to the editor sparked the beginning of the Grinnell College Community. The first letter indicates the tenuous social position that many queer students were in and the isolation that comes from being closeted and queer without community or support. It also anticipates that some straight students might react poorly to the article, and attempts to head that off. The following letter, titled “Homosexuals To Meet Here,” details how to attend the first meeting of the group. A second letter in the later issue speaks for the experience of lesbians at Grinnell and pushes against the idea that only men are homosexuals. Both letters also mention the support of Mr. Haas, the school chaplain, as an open-minded community member willing to support queer students.
+
+{% include feature/pdf.html objectid="dg_1774734451" width="50" %}
 
 Gay Perspectives Column
 
 Published during the 1974-1975 academic year, “Gay Perspectives” was a column written by members of the Grinnell College Gay Community on the homosexual experience at Grinnell, sexuality, and other related topics. 
 
+{% include feature/pdf.html objectid="dg_1774622578" width="50" %}
+
 1987 Pride Week
 
 This 1987 Pride Week calendar features the schedule of events for the first-ever Pride Week at Grinnell College. Students from the Grinnell College Gay Community (GCGC) received $709.95 to fund the week’s events after much discussion by the SGA joint board. The events surrounding the week were incredibly diverse, featuring “My Beautiful Laundrette,” a film that features a Pakistani-British man in a relationship with another man, a presentation of French lesbianism, and a Mexican feminist poet. These events seem to indicate a commitment to multiculturalism within the early queer movement and a hint at what students might’ve been interested in at the time.
+
+{% include feature/image.html objectid="dg_1774622579" %}
 
 1996 AIDS Memorial Quilt
 
