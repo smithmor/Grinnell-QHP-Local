@@ -11,7 +11,7 @@ Robert Coon,  February 22, 1968.
 
 This poem was published in the late 1960s, shortly before the Stonewall Rebellion that prompted the Gay Liberation movement in the 1970s and onward. It makes use of potentially coded language, as Lavender has been associated with queerness for quite some time, but it grew in popularity in the 1930s and during the Lavender Scare, before being reclaimed as a symbol of empowerment in the late 1960s and early 1970s.
 
-{% include feature/pdf.html objectid="demo_002" width="50" %}
+{% include feature/pdf.html objectid="dg_1774623038" width="50" %}
 
 High and Mighty, “Sexual Liberation - More of the Same Thing.” 
 Roxanne Dunbar, October 19, 1970.
