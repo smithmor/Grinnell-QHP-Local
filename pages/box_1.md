@@ -5,28 +5,28 @@ permalink: /box_1.html
 ---
 {% include feature/pdf.html objectid="dg_1774734451" width="50" %}
 
-Letters to the Editor: “Seeks Concern for Homosexuals. Homosexuals To Meet Here, Lesbians are Here Too.” 
+Letters to the Editor: “Seeks Concern for Homosexuals. Homosexuals To Meet Here, Lesbians are Here Too.” <br>
 Anonymous, 1972
 
 Written by anonymous students in 1972, this set of letters to the editor sparked the beginning of the Grinnell College Community. The first letter indicates the tenuous social position that many queer students were in and the isolation that comes from being closeted and queer without community or support. It also anticipates that some straight students might react poorly to the article, and attempts to head that off. The following letter, titled “Homosexuals To Meet Here,” details how to attend the first meeting of the group. A second letter in the later issue speaks to the experience of lesbians at Grinnell and pushes against the idea that only men are homosexuals. Both letters also mention the support of Mr. Haas, the school chaplain, as an open-minded community member willing to support queer students.
 
 {% include feature/pdf.html objectid="dg_1774734451" width="50" %}
 
-Scarlet and Black, Gay Perspectives Column 
+Scarlet and Black, Gay Perspectives Column <br>
 Robert Cleaver & Bruce Koff, 1974-75
 
 Published during the 1974-1975 academic year, “Gay Perspectives” was a column written by members of the Grinnell College Gay Community on the homosexual experience at Grinnell, sexuality, and other related topics. 
 
 {% include feature/pdf.html objectid="dg_1774622578" width="50" %}
 
-Grinnell College Gay Community, April Calendar, featuring GAY PRIDE WEEK. 
+Grinnell College Gay Community, April Calendar, featuring GAY PRIDE WEEK. <br>
 Unknown, 1987
 
 This 1987 Pride Week calendar features the schedule of events for the first-ever Pride Week at Grinnell College. Students from the Grinnell College Gay Community (GCGC) received $709.95 to fund the week’s events after much discussion by the SGA joint board. The events surrounding the week were incredibly diverse, featuring “My Beautiful Laundrette,” a film that features a Pakistani-British man in a relationship with another man, a presentation of French lesbianism, and a Mexican feminist poet. These events seem to indicate a commitment to multiculturalism within the early queer movement and a hint at what students might’ve been interested in at the time.
 
 {% include feature/image.html objectid="dg_1774622579" %}
 
-AIDS Memorial Quilt
+AIDS Memorial Quilt <br>
 Multiple Authors, 1996
 
 The AIDs pandemic was a specter hovering over the Gay Liberation movement for much of its history, and the AIDs Memorial Quilt is a commemoration of all the lives lost to the AIDS pandemic. Originally conceived in November of 1985 by long-time human rights activist, author, and lecturer Cleve Jones, the quilt has stood as a symbol of the devastation of the AIDS pandemic and the gay community for decades. 
@@ -35,7 +35,7 @@ On October 11, 1987, the Quilt was displayed for the first time on the National 
 
 The quilt is added to frequently, and this piece is a memorial that was made in 1998 at Grinnell College with students contributing memories of people they’d lost due to AIDS, sharing their grief, and trying to grapple with the enormity of the AIDS pandemic. There is another piece created by Grinnell College Students on display in the Stonewall Resource Center.
 
-“Gay is Ok” Photograph
+“Gay is Ok” Photograph <br>
 Unknown Photographer, Circa 1986
 
 Taken by an unknown photographer somewhere around 1986, this photo depicts students protesting for a Gay Resource Center with a sign that reads “Gay is Ok”
