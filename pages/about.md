@@ -35,6 +35,3 @@ Digital Grinnell contributes to â€œfree inquiry and the open exchange of ideasâ€
 #### LGBTQ+ Oral Histories of Central Iowa @ the LGBTQ+ Iowa Archives and Library 
 
 LOHCI a collection of interviews gathered by students of Grinnell College from 2019 through 2020. The principal investigator was Abram J. Lewis. Student interviewers included: Amari Brooks, Zama Buthelez, Cassidy Christiansen, Jiaqi Dai/Payson, Hannah Dorf, Rylee Dolezal, Evan Hurst, Lydia James, May Kurata, Hannah Miller, Steven Saada, Lucid Thomas, and Elliot Wesselborg. The project aimed to record the memories of local community members who identify as LGBT. Among the interviewees are college students, writers, musicians, artists, professors, doctors, activists, archivists, reverends, community leaders, and more. The collection includes over 100 interviews and 150 hours of oral histories. A copy of LOHCI was donated to LIAL by AJ Lewis in October of 2024. 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
