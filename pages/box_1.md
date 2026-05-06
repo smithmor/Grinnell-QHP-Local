@@ -35,6 +35,8 @@ On October 11, 1987, the Quilt was displayed for the first time on the National 
 
 The quilt is added to frequently, and this piece is a memorial that was made in 1998 at Grinnell College with students contributing memories of people they’d lost due to AIDS, sharing their grief, and trying to grapple with the enormity of the AIDS pandemic. There is another piece created by Grinnell College Students on display in the Stonewall Resource Center.
 
+{% include feature/image.html objectid="dg_1778092856" %}
+
 **“Gay is Ok” Photograph** <br>
 Unknown Photographer, Circa 1986
 
