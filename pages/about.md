@@ -4,44 +4,37 @@ layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
-# featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
-about-featured-image: demo_031
-# set background-position for featured image, "center", "top", "bottom"
-position: bottom
-# major heading to display over featured image
-heading: About the Collection
-# paragraph text below heading in featured image
-sub-heading: 
-# additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
-padding: 6em
-# Edit the markdown on in this file to describe your collection
-# Look in _includes/feature for options to easily add features to the page
 ---
-## About Digital Grinnell
-[Digital Grinnell](https://grinnell.primo.exlibrisgroup.com/discovery/collectionDiscovery?vid=01GCL_INST:GCL&collectionId=81302943070004641) contributes to “free inquiry and the open exchange of ideas” through the preservation and publication of scholarship created by Grinnell College students, faculty, and staff, as well as selected material that illuminates the College’s history and other activities.
+## Project About:
+The Grinnell Queer History Project is the result of ongoing efforts since 2023 by Morgan Smith ‘26 to document, interpret, and share LGBTQ+ history at Grinnell College and the surrounding town. The project is currently collecting further oral histories and digitizing additional relevant documents. If you were involved in the LGBTQ+ community during your time in Grinnell and want to share memories or memorabilia from your time, get in touch! <br>
 
-## About Grinnell College Libraries
-The 11 faculty librarians and 19 staff of the [Grinnell College Libraries](https://www.grinnell.edu/academics/libraries/about-us) — Burling Library, the Kistle Science Library, and the Curriculum Library — are dedicated to helping Grinnell students, faculty, and staff succeed in learning, teaching, and research. Our services emphasize working closely with students to develop fluency in the use and evaluation of information sources as they conduct research and other intellectual investigations, through individualized research appointments, classroom instruction, and drop-in research assistance. Each academic department and concentration has a professional librarian assigned as its liaison, and we work closely with our campus colleagues to integrate writing, reading, data analysis, academic advising, and other services. The Libraries’ book, journal, data, and media collections — in analog and digital formats — are wide-ranging and intellectually challenging, representing multiple viewpoints, languages, and cultures, and we are part of a worldwide network of libraries that can bring you information from all parts of the globe. We offer a variety of spaces for quiet and collaborative study, practicing presentations, and relaxing, and we sponsor readings, lectures, and musical performances throughout the year. We’re also part of the Grinnell town community; residents are welcome to borrow from our collection, use our facilities, and enjoy our events.
+The project has three major components: a digital collection, an oral history project, and a digital exhibition. The digital collection comprises digitized documents and artifacts related to Grinnell LGBTQ+ history, mostly from the Grinnell College Special Collections and Archives. The oral history project is composed of interviews of alumni and townspeople who were impactful in Grinnell’s queer history and community. The project’s digital exhibit is a recreation of a physical exhibit that was curated by Morgan Smith ‘26 and displayed in the Burling Gallery during the Fall and Spring of 2026. <br>
 
-As the world of information grows more complex — available in more formats, from more sources, with confusing questions about copyright and reliability — libraries are more central to learning than ever before. We look forward to working with you!
+The project website was created in the Spring of 2026 as part of independent student research supervised by Dr. Sarah Purcell and Dr. Jordan Reznick for an American Studies Mentored Advanced Project. The website and digital collection continue to be supported through the Grinnell College Libraries and Digital Grinnell, and are updated periodically by Morgan Smith ‘26 as research continues. <br>
 
 
-## About CollectionBuilder CSV
+## Project Team:
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+Morgan Smith (they/them) graduated from Grinnell College as part of the Class of 2026 with a B.A. in History, having focused much of their studies on queer history in the United States and Germany during the 20th century. They began studying local LGBTQ+ history in Grinnell during their first year as part of a class project, which has since spiraled into years of archival research, presentations at local, regional, and national conferences, exhibits, and this digital project. They will be continuing to work on this project intermittently as a personal research project, while pursuing a Masters in Library and Information Science at the University of Iowa with a focus on Special Collections and Archives, and the Digital Humanities.
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+Supervised by Dr. Sarah Purcell and Dr. Jordan Reznick. <br>
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+This project is also indebted to the numerous faculty, staff, librarians, alumni, and community members who have supported it as supervisors, instructors, and friends of the project. This group includes, but is not limited to: Allison Haack, Chris Jones, Chris Wilde, Jocelyn Kreuger, Dr. Jordan Reznick, Dr. Jen Shook, Libby Cave, Micho Adler, Sarah Smith-Benanti, Dr. Sarah Purcell, and Tierney Steelberg.
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+## Contributing Repositories:
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+#### Grinnell College Special Collections and Archives
+Special Collections and Archives collects, preserves, and makes available for research rare and unique materials. We have a good teaching collection of books that document the history of print culture from the birth of movable type in the 1470s to the present day. We also have a strong focus on materials that document the history of Grinnell College, the surrounding community, and its cultural and natural environment in Iowa, including its prairie setting. From a Kelmscott edition of Chaucer to a first edition of the Book of Mormon to James Norman Hall's papers, Special Collections offers an outstanding array of rare and unique materials for researchers and scholars. Special Collections also houses The Salisbury House Library Collection, which came to Grinnell College in 2019. From the historic Salisbury House estate of Des Moines, Iowa, the collection was built by Carl and Edith Weeks primarily between the 1920s and 1960s. The Salisbury House Library Collection totals nearly 5,000 rare books and manuscripts dating from the 12th century to the mid-1960s.
+
+Books, manuscripts, maps, audio-visual materials, photographs, and ephemera are housed in a secure, climate-controlled environment which preserves the collections for future generations. Special Collections are non-circulating, closed-stack collections, and patrons are encouraged to consult with staff for help finding and using materials.
+
+#### Digital Grinnell
+Digital Grinnell contributes to “free inquiry and the open exchange of ideas” through the preservation and publication of scholarship created by Grinnell College students, faculty, and staff, as well as selected material that illuminates the College’s history and other activities.
+
+#### LGBTQ+ Oral Histories of Central Iowa @ the LGBTQ+ Iowa Archives and Library 
+
+LOHCI a collection of interviews gathered by students of Grinnell College from 2019 through 2020. The principal investigator was Abram J. Lewis. Student interviewers included: Amari Brooks, Zama Buthelez, Cassidy Christiansen, Jiaqi Dai/Payson, Hannah Dorf, Rylee Dolezal, Evan Hurst, Lydia James, May Kurata, Hannah Miller, Steven Saada, Lucid Thomas, and Elliot Wesselborg. The project aimed to record the memories of local community members who identify as LGBT. Among the interviewees are college students, writers, musicians, artists, professors, doctors, activists, archivists, reverends, community leaders, and more. The collection includes over 100 interviews and 150 hours of oral histories. A copy of LOHCI was donated to LIAL by AJ Lewis in October of 2024. 
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
