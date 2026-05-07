@@ -5,7 +5,7 @@ permalink: /sources.html
 ---
 ### United States Queer History
 
-Romesburg, D. (Ed.). (2018). The Routledge History of Queer America (1st ed.). Routledge. [https://doi.org/10.4324/9781315747347.](https://doi.org/10.4324/9781315747347). <br>
+Romesburg, D. (Ed.). (2018). *The Routledge History of Queer America*. Routledge. [https://doi.org/10.4324/9781315747347.](https://doi.org/10.4324/9781315747347). <br>
 
 Chauncey, George. *Gay New York*. Basic Books, 2008. <br>
 
@@ -23,8 +23,6 @@ Dilley, Patrick. *Gay Liberation to Campus Assimilation: Early Non-Heterosexual 
 
 D’Emilio, John. *Making Trouble: Essays on Gay History, Politics, and the University*. Routledge, 1992. <br>
 
-Herring, Scott. *Another Country: Queer Anti-Urbanism*. New York, USA: New York University Press, 2010. [https://doi.org/10.18574/nyu/9780814790939.001.0001](https://doi.org/10.18574/nyu/9780814790939.001.0001). <br>
-
 Forstie, Clare. *Queering the Midwest: Forging LGBTQ Community*. New York, USA: New York University Press, 2022. [https://doi.org/10.18574/nyu/9781479801893.001.0001](https://doi.org/10.18574/nyu/9781479801893.001.0001). <br>
 
 ### Rural Queer Histories:
@@ -32,6 +30,8 @@ Forstie, Clare. *Queering the Midwest: Forging LGBTQ Community*. New York, USA: 
 Johnson, Colin R. *Just Queer Folks: Gender and Sexuality in Rural America*. Temple University Press, 2013. [http://www.jstor.org/stable/j.ctt1bw1k4j](http://www.jstor.org/stable/j.ctt1bw1k4j). <br>
 
 Rosenberg, Gabriel N. *The 4-H Harvest: Sexuality and the State in Rural America*. University of Pennsylvania Press, 2016. [http://www.jstor.org/stable/j.ctt173zm92](http://www.jstor.org/stable/j.ctt173zm92). <br>
+
+Herring, Scott. *Another Country: Queer Anti-Urbanism*. New York, USA: New York University Press, 2010. [https://doi.org/10.18574/nyu/9780814790939.001.0001](https://doi.org/10.18574/nyu/9780814790939.001.0001). <br>
 
 Gray, Mary L., Colin R. Johnson, and Brian Joseph Gilley, eds. *Queering the Countryside: New Frontiers in Rural Queer Studies*. New York University Press, 2016. [https://www.jstor.org/stable/j.ctt1804134](https://www.jstor.org/stable/j.ctt1804134). <br>
 
