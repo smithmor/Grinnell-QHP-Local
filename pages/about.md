@@ -6,7 +6,7 @@ permalink: /about.html
 credits: true
 ---
 ## Project About:
-The Grinnell Queer History Project is the result of ongoing efforts since 2023 by Morgan Smith ‘26 to document, interpret, and share LGBTQ+ history at Grinnell College and the surrounding town. The project is currently collecting further oral histories and digitizing additional relevant documents. If you were involved in the LGBTQ+ community during your time in Grinnell and want to share memories or memorabilia from your time, get in touch! <br>
+The Grinnell Queer History Project is the result of ongoing efforts since 2023 by Morgan Smith ‘26 to document, interpret, and share LGBTQ+ history at Grinnell College and the surrounding town. The project is currently collecting further oral histories and digitizing additional relevant items. If you were involved in the LGBTQ+ community during your time in Grinnell and want to share memories or memorabilia from your time, get in touch! <br>
 
 The project has three major components: a digital collection, an oral history project, and a digital exhibition. The digital collection comprises digitized documents and artifacts related to Grinnell LGBTQ+ history, mostly from the Grinnell College Special Collections and Archives. The oral history project is composed of interviews of alumni and townspeople who were impactful in Grinnell’s queer history and community. The project’s digital exhibit is a recreation of a physical exhibit that was curated by Morgan Smith ‘26 and displayed in the Burling Gallery during the Fall and Spring of 2026. <br>
 
@@ -17,7 +17,7 @@ The project website was created in the Spring of 2026 as part of independent stu
 
 Morgan Smith (they/them) graduated from Grinnell College as part of the Class of 2026 with a B.A. in History, having focused much of their studies on queer history in the United States and Germany during the 20th century. They began studying local LGBTQ+ history in Grinnell during their first year as part of a class project, which has since spiraled into years of archival research, presentations at local, regional, and national conferences, exhibits, and this digital project. They will be continuing to work on this project intermittently as a personal research project, while pursuing a Masters in Library and Information Science at the University of Iowa with a focus on Special Collections and Archives, and the Digital Humanities.
 
-Supervised by Dr. Sarah Purcell and Dr. Jordan Reznick. <br>
+This project was supervised by Dr. Sarah Purcell and Dr. Jordan Reznick during the Spring 2026 semester. <br>
 
 This project is also indebted to the numerous faculty, staff, librarians, alumni, and community members who have supported it as supervisors, instructors, and friends of the project. This group includes, but is not limited to: Allison Haack, Chris Jones, Chris Wilde, Jocelyn Kreuger, Dr. Jordan Reznick, Dr. Jen Shook, Libby Cave, Micho Adler, Sarah Smith-Benanti, Dr. Sarah Purcell, and Tierney Steelberg.
 
